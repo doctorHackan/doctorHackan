@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- **Competitive Programmer, Fullstack Web Developer**
+- **Fullstack Web Developer**
 - 🧠 I love **solving problems** and understanding how things work under the hood  
 - 💻 Passionate about **backend development, system design, and clean code**
 - 🛠️ Enjoy contributing to **open-source projects**
