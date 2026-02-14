@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Doctor Hackan</h1>
+<h1 align="center">Hey there 👋, I'm Drubo Roy Bishwas</h1>
 <h3 align="center">A Curious Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
